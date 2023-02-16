@@ -63,9 +63,11 @@ const App = () => {
           Traducir
           <ChangeIcon />
           </button>
-        <p className='w-96 h-96 flex justify-center overflow-scroll p-4'>
-          {loading ? <LoadingIcon/> : translation}
-        </p>
+        
+          {loading 
+            ? <p className='w-96 h-96 flex justify-center items-center'><LoadingIcon/></p> 
+            : <p className='w-96 h-96 flex justify-center overflow-scroll p-4'>{translation}</p>
+          }
       </form>
     </main>
   )
