@@ -1,4 +1,4 @@
-# Convertir el nombre de una película en emojies 🎞📽
+# Traducir de inglés a español con inteligencia artificial
 
 Este proyecto surgió como idea gracias a los ejemplos que hay en la API de OpenAI.
 
@@ -9,6 +9,7 @@ Este proyecto surgió como idea gracias a los ejemplos que hay en la API de Open
 - [Vite JS](https://vitejs.dev)
 - [Vercel](https://vercel.com)
 - [Tabler Icons](https://tabler-icons.io)
+- [SVGR](https://react-svgr.com)
 
 
 ## Funcionamiento:
