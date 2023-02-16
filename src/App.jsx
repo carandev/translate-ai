@@ -45,7 +45,6 @@ const App = () => {
   return (
     <main className='flex gap-8 items-center w-full flex-col text-cyan-100 p-8'>
       <h1 className='text-3xl text-center'>Traductor con inteligencia artificial</h1>
-      <p>Traduce cualquier texto en inglés a español</p>
       <form 
         onSubmit={getTranslation}
         className='flex gap-16 flex-wrap justify-center items-center'
