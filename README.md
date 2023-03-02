@@ -16,12 +16,12 @@ Este proyecto surgió como idea gracias a los ejemplos que hay en la API de Open
 
 Contiene un textarea para escribir el texto en inglés y un botón para ejecutar la petición a la API. (Si el textarea está vacío traduce una frase aleatoria devuelta por la API)
 
-![Una imagen de la app que tiene un título, un input ](.github/home.png)
+![Una imagen de la app que tiene un título, un input ](https://raw.githubusercontent.com/carandev/translate-ai/main/.github/home.png)
 
 Al ejecutar la petición mientras se espera la respuesta muestra un icono de cargando para darle feedback al usuario.
 
-![Una imagen de la app que tiene un título, un input, un botón y un icono de cargando](.github/loading.png)
+![Una imagen de la app que tiene un título, un input, un botón y un icono de cargando](https://raw.githubusercontent.com/carandev/translate-ai/main/.github/loading.png)
 
 Después muestra la traducción correspondiente.
 
-![Una imagen de la app que tiene un título, los emojies de la película y un botón](.github/emoji.png)
+![Una imagen de la app que tiene un título, los emojies de la película y un botón](https://raw.githubusercontent.com/carandev/translate-ai/main/.github/emoji.png)
